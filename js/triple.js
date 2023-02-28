@@ -1,3 +1,9 @@
+/*
+    1.Always use  === wqual sine
+    2.equal comparison dose't work for non-primitive 
+ */
+
+
 const first = 2;
 const second = '2';
 // === ans There are not equal
